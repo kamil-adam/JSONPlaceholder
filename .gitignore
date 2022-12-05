@@ -1,2 +1,9 @@
 *.class
 *.log
+*.json
+*.iml
+.idea
+.gradle
+
+target/
+project/target/
